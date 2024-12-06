@@ -1,10 +1,10 @@
-Here’s the English translation of the README for your PHP API:  
+
 
 ---
 
 # 🌟 PHP User Query API 🌟  
 
-The PHP User Query API is a simple yet powerful tool that allows you to quickly and easily query user information. 🚀 This project provides developers with a reliable and flexible framework for integrating user data into their applications.  
+🚀 This project provides developers with a reliable and flexible framework for integrating user data into their applications.  
 
 ## 📋 Overview  
 
@@ -97,5 +97,3 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 > Feel free to reach out with any questions or suggestions. Happy coding! 🖥️✨  
 
 ---
-
-This README is tailored to explain your project in a detailed and professional manner. 😊
