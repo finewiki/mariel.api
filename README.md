@@ -28,7 +28,7 @@ The PHP User Query API retrieves detailed user information using **first name** 
 
 1. **Clone or Download the Repository**:  
    ```bash
-   git clone https://github.com/username/php-user-query-api.git
+   git clone https://github.com/finewiki/mariel.api.git
    ```  
 
 2. **Set Up the Cookie File**:  
